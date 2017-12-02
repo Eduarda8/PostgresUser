@@ -1,5 +1,5 @@
 '''
-Progama para selecionar e exibir na tela, os usuarios da Rede Social.
+Programa para selecionar e exibir na tela, os usuários da Rede Social.
 '''
 import psycopg
 
